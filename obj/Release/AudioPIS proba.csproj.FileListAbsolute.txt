@@ -1,0 +1,63 @@
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\NAudio.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\ZedGraph.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\NAudio.xml
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\ZedGraph.xml
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\de\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\es\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\it\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.MainForm.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.OutputForm.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.InputForm.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Settings.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Splash.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Release\AudioPIS proba.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Release\AudioPIS proba.csprojResolveAssemblyReference.cache
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Release\NAudio.dll
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Release\NAudio.xml
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Release\AudioPIS proba.csprojResolveAssemblyReference.cache
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.MainForm.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.OutputForm.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.InputForm.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Settings.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Splash.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Release\AudioPIS proba.csproj.GenerateResource.Cache
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\bin\Release\NAudio.dll
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\bin\Release\NAudio.xml
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\obj\Release\AudioPIS proba.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.MainForm.resources
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.OutputForm.resources
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.InputForm.resources
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Settings.resources
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Splash.resources
+C:\Users\User\Desktop\AudioPIS\WindowsFormsApplication2\obj\Release\AudioPIS proba.csproj.GenerateResource.Cache

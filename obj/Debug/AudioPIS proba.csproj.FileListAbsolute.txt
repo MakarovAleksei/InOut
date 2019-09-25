@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Debug\AudioPIS proba.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OutputForm.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.InputForm.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Splash.resources
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Debug\AudioPIS proba.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Debug\NAudio.dll
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\bin\Debug\NAudio.xml
+C:\Users\User\Desktop\Оно живое\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\AudioPIS\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\AudioPIS\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\AudioPIS\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Debug\AudioPIS proba.csprojResolveAssemblyReference.cache
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OutputForm.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.InputForm.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Splash.resources
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Debug\AudioPIS proba.csproj.GenerateResource.Cache
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Debug\NAudio.dll
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\bin\Debug\NAudio.xml
+C:\Users\Танюшка\Documents\Visual Studio 2013\Projects\AudioPIS\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
